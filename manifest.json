@@ -1,0 +1,17 @@
+{
+  "name": "Dokter Jaga — Puskesmas Lontar",
+  "short_name": "Dokter Jaga",
+  "description": "Jadwal jaga dokter yang adil dan transparan.",
+  "lang": "id",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F4F7F5",
+  "theme_color": "#155C3B",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
